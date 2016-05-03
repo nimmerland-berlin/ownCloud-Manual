@@ -1,4 +1,4 @@
-## **Der Gruppenadministrator** {#der-gruppenadministrator}
+## Der Gruppenadministrator {#der-gruppenadministrator}
 
 Falls du eine Gruppe eingerichtet hast, kannst du einen oder mehrere Benutzer zu Gruppenadministratoren machen. Als Gruppenadministrator teilst du den Speicherplatz zwischen den Gruppenmitgliedern auf, fügst neue Mitglieder hinzu oder entfernst sie aus eurer Gruppe. Die Anzahl der Gruppenmitglieder ist nur durch euren Speicherplatz begrenzt.
 
