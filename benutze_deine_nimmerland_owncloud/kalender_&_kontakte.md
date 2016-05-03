@@ -1,8 +1,8 @@
-## **Kalender & Kontakte** {#kalender-kontakte}
+## Kalender & Kontakte {#kalender-kontakte}
 
 Sind seid ownCloud 8 keine Standard-Apps mehr. Wenn Du sie benutzen möchtest, musst du sie als Superadministrator aktivieren. Wie du Deinen Kalender und Deine Kontakte mit deinen Mailprogrammen und mobilen Geräten synchronisierst, erfährst du in der Hilfe. Ein paar deutschsprachige Anleitungen sind auf unserer [Webseite](https://nimmerland.de/anleitungen.html) verlinkt. Du kannst auch [DuckDuckGo](https://duckduckgo.com/) fragen.
 
-### **Empfohlene Programme** {#empfohlene-programme}
+### Empfohlene Programme {#empfohlene-programme}
 
 *   [Thunderbird](https://www.mozilla.org/de/thunderbird/) mit [Lightning](https://addons.mozilla.org/de/thunderbird/addon/lightning/) und [Enigmail](https://addons.mozilla.org/de/thunderbird/addon/enigmail/),
 *   Postbox (kommerzielle Thunderbird Weiterentwicklung)
