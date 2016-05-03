@@ -1,4 +1,4 @@
-## **Dateien synchronisieren** {#dateien-synchronisieren}
+## Dateien synchronisieren {#dateien-synchronisieren}
 
 Es gibt [Desktop-Clients](https://owncloud.org/install/#install-clients) für alle bekannten Betriebssysteme. Die Clients betreiben einigen Aufwand, auf allen synchronisierten Rechnern immer die aktuelle Version einer Datei vorzuhalten. Das braucht Zeit und läuft auch nicht immer einwandfrei.
 
