@@ -1,4 +1,4 @@
-# Hallo! {#hallo}
+# Guten Tag! {#hallo}
 
 Schön, dass du dich für **nimmerland ownCloud friends & family** entschieden hast. 'friends & family' ist unser preiswerter Tarif für kleine Gruppen oder Teams, die ihre ownCloud selbst administrieren wollen. Du kannst beliebig viele Nutzer und Gruppen anlegen (solange dein Speicherplatz reicht) und die Richtlinien für das Teilen von Dateien selbst bestimmen. Aus einem Pool von uns geprüfter Apps aktivierst du die Module, die du wirklich brauchst.
 
