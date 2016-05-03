@@ -2,7 +2,7 @@
 
 Deine Daten sind bestens vor fremden Blicken geschützt, wenn sie lokal auf deinen Geräten verschlüsselt werden, bevor sie in deine nimmerland ownCloud hochgeladen werden. Die Schlüssel bleiben auf deinem Rechner. Zwei deutsche Firmen bieten gut getestete Software dazu an: [Boxcryptor](https://www.boxcryptor.com/) wird kontinuierlich weiterentwickelt und bietet Clients für alle Betriebssysteme und mobilen Geräte. Boxcryptor hat erlaubt Zugriffsrechte nach Ordnern, Benutzern oder Gruppen differenziert zu vergeben und eignet sich daher besonders für Teams und kleine Firmen. Eine sehr eingeschränkte Version ist für den Privatanwender kostenlos.
 
-![](https://lehre.nimmerland.de/index.php/s/f11xaHJif4I5b5I/download)
+![](https://lehre.nimmerland.de/index.php/s/BlU1uoyqHD328KS/download)
 
 Ähnlich, und für Privatanwender in einem weiteren Umfang kostenlos ist [Cloudfogger,](https://www.cloudfogger.com/de/) ebenfalls eine deutsche Software. Die mobilen Clients lassen allerdings nur das Entschlüsseln, nicht das Verschlüsseln von Dateien zu. Wenn du einen Text auf deinem Tablet schreibst und ihn direkt in deiner ownCloud speicherst, wird Cloudfogger ihn nicht verschlüsseln. Wer mobil überwiegend lesend auf seine Daten zugreift und keine fein differenzierten Zugriffsrechte benötigt, ist mit Cloudfogger gut bedient.
 
