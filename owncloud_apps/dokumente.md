@@ -4,9 +4,7 @@ Die ownCloud App 'Dokumente' lässt dich einfache Texte im Libre- oder Open-Offi
 
 Der Superadministrator muss diese App aktivieren, sie ist standardmäßig nicht aktiviert.
 
-![](nila-oc8-friends-ersteinrichtung-Dateien/img00007.PNG)
-
-![](nila-oc8-friends-ersteinrichtung-Dateien/img00008.PNG)
+![](https://lehre.nimmerland.de/index.php/s/EZPfB8FfPNXVLEi/download)
 
 <div class="alert alert-warning">
 Leider zeichnet die App 'Dokumente' Änderungen nicht auf, es gibt kein Undo und beim Verlassen wird immer gespeichert.
