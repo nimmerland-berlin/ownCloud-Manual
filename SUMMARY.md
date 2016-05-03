@@ -12,7 +12,6 @@
   * [Der Superadministrator](accounts/der_superadministrator.md)
   * [Der Gruppenadministrator](accounts/der_gruppenadministrator.md)
   * [Einfache Benutzer](accounts/einfache_benutzer.md)
-* [ ](.md)
 * [ownCloud Apps](owncloud_apps/README.md)
   * [Activity](owncloud_apps/activity.md)
   * [Bilder / Galerie](owncloud_apps/bilder__galerie.md)
