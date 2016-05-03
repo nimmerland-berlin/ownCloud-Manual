@@ -1,4 +1,4 @@
-## **Serverseitige Verschlüsselung (ownCloud)** {#serverseitige-verschl-sselung-owncloud}
+## Serverseitige Verschlüsselung (ownCloud) {#serverseitige-verschl-sselung-owncloud}
 
 Als Superadministrator kannst du das Encryption-Modul aktivieren. Alle Dateien in deiner nimmerland ownCloud werden dann auf dem Server verschlüsselt. Weil die Schlüssel hierbei aber gemeinsam mit den Dateien auf dem Server liegen, gilt dieses Verfahren nicht als sehr sicher.
 
