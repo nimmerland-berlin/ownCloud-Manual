@@ -1,3 +1,3 @@
-# **Accounts** {#accounts}
+# Accounts {#accounts}
 
-Wir liefern unsere nimmerland ownCloud friends & family mit einem Superadministrator-Zugang aus. Du kannst weiter Benutzer anlegen. Wir empfehlen dir für deinen alltägliche Zugang einen normalen User ohne admin-Rechte anzulegen.
+Wir liefern unsere nimmerland ownCloud friends & family mit einem Superadministrator-Zugang aus. Er kannst weitere Benutzer und Gruppen anlegen und die Einstellungen der nimmerland ownCloud verändern. Wir empfehlen dir für deinen alltägliche Zugang einen normalen User ohne Admin-Rechte anzulegen. Wenn Du eine Gruppe mit Benutzern administrieren willst, lege einen Gruppenadmin an. Er verteilt den Speicherplatz ohne die Grundeinstellungen der ownCloud gefährden zu können.
