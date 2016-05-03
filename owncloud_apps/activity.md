@@ -4,6 +4,8 @@ Der Activity-Report führt Protokoll über deine Aktivitäten und die deiner Nut
 
 ![Der Acitvity-Report protokolliert Veränderungen an Dateien.](https://lehre.nimmerland.de/index.php/s/XoKJPgvLJ4d3gNA/download)
 
+![So könnte ein Aktivitäten-Protokoll aussehen.](https://lehre.nimmerland.de/index.php/s/W7EZUOGg06p2KVK/download)
+
 <div class="alert alert-info">
 Der Superadministrator muss diese App aktivieren, sie ist standardmäßig nicht aktiviert.
 </div>
