@@ -13,3 +13,5 @@ Sprich mit den anderen Nutzern deiner nmmerland ownCloud darüber, ob ihr die Ac
 <div class="alert alert-info">
 Der Superadministrator muss diese App aktivieren, sie ist standardmäßig nicht aktiviert.
 </div>
+
+### ownCloud Hilfeseiten
