@@ -6,6 +6,15 @@ Kernfunktion deiner nimmerland ownCloud ist der Umgang mit eigenen oder geteilte
 ![Die Dateiverwaltung ist das Kernstück deiner nimmerland ownCloud. Dieses Bild zeigt ownCloud 9 mit Schlagwortsuche und Kommentaren.](https://lehre.nimmerland.de/index.php/s/ekGOqs8cLEPRcEx/download)
 
 ### Teilen
+Du kannst Dateien oder ganze Ordner-Hierarchien mit Freunden oder Mitarbeitern teilen. Du kannst über einen Link, in derselben nimmerland ownCloud oder mit dem Nutzer einer anderen ownCloud irgendwo auf der Welt teilen. Ob dein Gegenüber die Datei nur ansehen, oder auch umbenennen oder bearbeiten darf, kannst du mit den Rechten fein steuern.
+
+![Teilen von Dateien und Ordnern in nimmerland ownCloud 9.](https://lehre.nimmerland.de/index.php/s/6ojwnx9BLT5wPSJ/download)
+
+<div class="alert alert-info">
+Bei der Einrichtung einer sinnvollen Struktur mit vererbten Dateirechten und eingeschränkten Rechten für deine Mitarbeiter unterstützen wir dich individuell in unserem Tarif [nimmerland ownCloud team](https://nimmerland.de/nimmerland-cloud-team.html).
+</div>
+
+
 
 ### Versionierung
 
