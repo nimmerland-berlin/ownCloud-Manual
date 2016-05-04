@@ -20,7 +20,6 @@
    * [Kontakte](owncloud_apps/kontakte.md)
    * [Dokumente](owncloud_apps/dokumente.md)
    * [Datei-Versionen](owncloud_apps/datei-versionen.md)
-   * [Files Move](owncloud_apps/files_move.md)
    * [External Storage Support](owncloud_apps/external_storage_support.md)
    * [Musik](owncloud_apps/musik.md)
    * [News](owncloud_apps/news.md)
