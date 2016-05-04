@@ -19,7 +19,7 @@
    * [Kalender](owncloud_apps/kalender.md)
    * [Kontakte](owncloud_apps/kontakte.md)
    * [Dokumente](owncloud_apps/dokumente.md)
-   * ownNote - Notizen
+   * [ownNote - Notizen](owncloud_apps/ownnote_-_notizen.md)
    * [Bookmarks](owncloud_apps/bookmarks.md)
    * [External Storage Support](owncloud_apps/external_storage_support.md)
    * [Password Policy](owncloud_apps/password_policy.md)
