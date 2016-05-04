@@ -14,4 +14,7 @@ Der Superadministrator muss diese App aktivieren, sie ist standardmäßig nicht 
 ![Mit der kostenlosen Android Bookmarks kannst du deine Lesezeichen auf deinen Androisd-Geräten nutzen.](https://lehre.nimmerland.de/index.php/s/Cj11AMyMeinc8t4/download)
 [ownCloud Bookmarks – Android-Apps auf Google Play](https://play.google.com/store/apps/details?id=cz.nethar.owncloudbookmarks)
 
+### ownCloud Hilfeseiten
+
+[Using the Bookmarks App — ownCloud 8.2 User Manual 8.2 documentation](https://doc.owncloud.org/server/8.2/user_manual/bookmarks.html)
 
