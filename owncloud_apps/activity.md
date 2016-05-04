@@ -1,6 +1,4 @@
-<div class="btn btn-lg" type="button">friends & family</div>
-
-<div class="btn btn-lg" type="button">team</div>
+![](favicon-nila.png)![](favicon-nila.png)![](favicon-nila.png)
 
 ## Activity {#activity}
 
