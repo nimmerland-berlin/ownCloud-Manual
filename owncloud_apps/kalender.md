@@ -11,3 +11,4 @@ Der Superadministrator muss diese App aktivieren, sie ist standardmäßig nicht 
 <div class="alert alert-warning">
 In ownCloud 9 werden die grundlegenden Kalender- und Adressbuch-Funktionen in das Hauptprogramm integriert. Die Module der Weboberfläche müssen daher neu geschrieben werden. Zur Zeit stehen noch nicht alle Funktionen aus 8.2 wieder zur Verfügung.
 </div>
+
