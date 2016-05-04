@@ -1,7 +1,8 @@
 {
     "plugins": [
         "image-captions",
-        "styleguide"
+        "styleguide",
+        "share"
     ],
     "pluginsConfig": {}
 }
