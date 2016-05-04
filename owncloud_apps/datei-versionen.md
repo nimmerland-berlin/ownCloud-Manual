@@ -30,3 +30,8 @@ Das Module "Versionierung" ist standardmässig eingeschaltet und benutzt Maximal
 
 ![Die Dateiinformationen in ownCloud 9 zeigen das Aktivitätenprotokoll, Kommentare zur Datei (Deine oder die berechtigter Mitarbeiter), Tags und frühere Versionen.](https://lehre.nimmerland.de/index.php/s/1LkqVPORWC5F48M/download)
 
+### Links
+
+[Accessing your Files Using the ownCloud Web Interface — ownCloud 9.0 User Manual 9.0 documentation](https://doc.owncloud.org/server/9.0/user_manual/files/access_webgui.html#comments)
+
+[Accessing your Files Using the ownCloud Web Interface — ownCloud 8.2 User Manual 8.2 documentation](https://doc.owncloud.org/server/8.2/user_manual/files/access_webgui.html)
