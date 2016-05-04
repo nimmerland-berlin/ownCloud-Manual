@@ -1,6 +1,6 @@
-## **External Storage Support** {#external-storage-support}
+## External Storage Support {#external-storage-support}
 
-Du kannst externen Speicherplatz (Dropbox, Google-Drive, Amazon S3, SFTP und andere) in deine nimmerland ownCloud einbinden. So brauchst du nur den ownCloud-Desktop-Client um Daten auf allen deinen Cloudspeichern zu synchronisieren.
+Falls der ownCloud Superadministrator das  vorsieht, kannst du deinen Speicherplatz von externen Anbietern (Dropbox, Google-Drive, Amazon S3, SFTP und andere) in deine nimmerland ownCloud einbinden. So brauchst du nur den ownCloud-Desktop-Client um Daten auf allen deinen Cloudspeichern zu synchronisieren.
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00010.PNG)
 
