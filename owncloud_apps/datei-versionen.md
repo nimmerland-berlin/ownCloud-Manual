@@ -1,4 +1,13 @@
-## Versionierung {#datei-versionen}
+## Dateien und Versionierung {#datei-versionen}
+
+### Dateien
+Kernfunktion deiner nimmerland ownCloud ist der Umgang mit eigenen oder geteilten Dateien. Die Weboberfläche bietet dabei viele Möglichkeiten, die du in deinen synchronisierten Ordnern nicht findest.
+
+![Die Dateiverwaltung ist das Kernstück deiner nimmerland ownCloud. Dieses Bild zeigt ownCloud 9 mit Schlagwortsuche und Kommentaren.](https://lehre.nimmerland.de/index.php/s/ekGOqs8cLEPRcEx/download)
+
+### Teilen
+
+### Versionierung
 
 Wenn du (oder eine deiner Mitarbeiterinnen) Texte, Bilder oder Office-Dateien änderst, legt deine nimmerland ownCloud Versionen an. Du kannst zu älteren Versionen zurückkehren.
 
