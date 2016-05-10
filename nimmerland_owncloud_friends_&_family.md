@@ -28,7 +28,8 @@ Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und he
 ### Applications
 
 Im Auslieferungszustand von nimmerland ownCloud friends & family sind die Datei- und die Gallery-App aktiviert. Mit deinem Superadmin-Zugang kannst du weitere ownCloud-Module aus einem Pool von uns überprüfter ownCloud Applikationen aktivieren.
-Synchronisation mit deinen Geräten
+
+### Synchronisation mit deinen Geräten
 
 Für Windows, Android , MacOs, iOs und Linux gibt es Clients, die einen Ordner auf deinem Rechner mit deiner nimmerland ownCloud synchronisieren. So hast du auf allen Plattformen immer deine aktuellen Daten dabei. (Tipp: zu Beginn erst einen und dann den anderen Rechner synchronisieren)
 
