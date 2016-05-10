@@ -7,11 +7,12 @@ Du bekommst einen Superadmin-Account, mit dem du weitere Gruppen und Nutzer anle
 
 Als Superadmin entscheidest du, welche der von uns angebotenen ownCloud Module du nutzen willst. Für Updates und Upgrades benutzt du den ownCloud-Updater[^1] oder beauftragst uns damit.
 
-[^1] 
+[^1] Bei serverseitiger Verschlüsselung, aktivierter News-App oder mehr als fünf Nutzern raten wir dringend vom Web-Updater ab.
 
-Für nur drei Euro im Monat bekommst du 15 GB Speicher. Du kannst Dateien, Bilder und Galerien teilen und deinen Kalender und dein Adressbuch mit all deinen Geräten synchronisieren.
+Für nur drei Euro im Monat bekommst du 15 GB Speicher. Du kannst Dateien, Bilder und Galerien, deine Kalender und deine Adressbücher teilen und mit all deinen Geräten synchronisieren.
 
 Du startest mit 15 GB. Bei Bedarf kannst du Deine nimmerland ownCloud friends & family auf insgesamt 200 GB aufstocken.
+
 Sicherheit
 
 Deine Dateien werden auf einem unserer Server verschlüsselt gespeichert. Der Zugriff über das Internet erfolgt stets mit starker Transportverschlüsselung (HTTPS). Wir nutzen ein Class 2 Wildcard Zertifikat von StartCom. SSLLabs sagt dir, was es im Moment von unserer Transportverschüsselung hält... 
