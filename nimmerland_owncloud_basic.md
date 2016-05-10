@@ -35,20 +35,22 @@ Ein Keepass-kompatible Passwortverwaltung sorgt dafür, dass du deine sicheren P
 
 ###Synchronisation mit deinen (mobilen) Geräten
 
-Für Windows, Android , MacOs, iOs und Linux gibt es Clients, die Ordner auf deinem Rechner mit deiner nimmerland ownCloud synchronisieren. Der Client sorgt im Hintergrund dafür, dass deine Daten immer aktuell sind. So hast du auf allen Plattformen immer deine wichtigen Dokumente dabei. Mit [Cyberduck](https://cyberduck.io/?l=de) oder [NetDrive](http://www.netdrive.net/) kannst du Deine nimmerland ownCloud auf deinem PC als Netzlaufwerk einbinden. (Wenn du online bist hast du direkten Zugriff auf deine Dateien auch ohne Synchronisation.) Auf dem Mac unter Windows 10 oder auf einem Linux-Rechner brauchst du nicht einmal ein spezielle Software.
+Für Windows, Android , MacOs, iOs und Linux gibt es Clients, die Ordner auf deinem Rechner mit deiner nimmerland ownCloud synchronisieren. Der Client sorgt im Hintergrund dafür, dass deine Daten immer aktuell sind. So hast du auf allen Plattformen immer deine wichtigen Dokumente dabei. Mit [Cyberduck](https://cyberduck.io/?l=de) oder [NetDrive](http://www.netdrive.net/) kannst du deine nimmerland ownCloud auf deinem PC als Netzlaufwerk einbinden. (Wenn du online bist hast du direkten Zugriff auf deine Dateien auch ohne Synchronisation.) Auf dem Mac unter Windows 10 oder auf einem Linux-Rechner brauchst du nicht einmal ein spezielle Software.
 
 **Tipp:** Für Android-Geräte gibt es zwar mehrere Clients, die alle die gleiche Software-Grundlage zu haben scheinen Wir empfehlen dir '[folder sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full&hl=de)'. Es synchronisiert flexibel nur bestimmte Ordner und lässt sich hervorragend an deine Bedürfnisse anpassen.
-Benutzer und Gruppen
 
 ### Updates & Upgrades
 
-Wir pflegen nicht jedes neue Update oder Upgrade sofort ein. Neue Versionen haben oft noch kleine Kinderkrankheiten. Wenn wir sicher sind, das alles so funktioniert, wie wir es wollen, rollen wir das Update aus. Wir kündigen das rechtzeitig vorher an. Nicht alle ownCloud Erweiterungen werden kontinuierlich weiterentwickelt. Es kann sein, dass wir bei einem Upgrade  ein Modul aus Sicherheitgründen nicht mehr anbieten können.
+Wir pflegen nicht jedes neue Update oder Upgrade sofort ein. Neue Versionen haben oft noch kleine Kinderkrankheiten. Wenn wir sicher sind, das alles so funktioniert, wie wir es wollen, rollen wir das Update aus. Wir kündigen das rechtzeitig vorher an. Nicht alle ownCloud Erweiterungen werden kontinuierlich weiterentwickelt. Es kann sein, dass wir bei einem Upgrade ein Modul aus Sicherheitgründen nicht mehr anbieten können.
 
-###Tarifwechsel & Erweiterungen
+### Tarifwechsel & Erweiterungen
 
 Ein einfacher Wechsel von nimmerland cloud basic zu friends & family oder team ist nicht möglich, da es sich hier um vollständig getrennte Installationen handelt. Der Umzug deiner Dateien, Kalender und Kontakte ist aber auch nicht allzu schwer. Für diesen Fall haben eine bebilderte Anleitung für dich.
 
 Speichererweiterungen kannst du auf unserer [Homepage](https://nimmerland.de/contao/preview.php) buchen.
 
-###Rechnung und Vertragslaufzeiten
+### Rechnung und Vertragslaufzeiten
 nimmerland ownCloud basic kostet einen Euro im Monat. Wir berechnen jährlich im voraus. Etwa einen Monat vor Ablauf senden wir dir eine Folgerechnung. Wenn du die pünktlich bezahlst kannst du deine nimmerland ownCloud ein weiteres Jahr benutzen. Falls nicht, ist der Fall für uns beide erledigt und wir löschen Deine Daten und deinen Account zum Stichtag.
+
+### Support
+Die niedrigen Preise von nimmerland ownCloud basic erlauben uns eigentlich keinen individuellen Support. Nutze soweit möglich die Hilfen deiner nimmerland ownCloud, das ownCloud-Forum oder dieses Manual. Falls du nicht weiterkommst, nutze das [Kontaktformular](https://nimmerland.de/kontakt.html). Es kann aber etwas dauern, bis wir antworten...
