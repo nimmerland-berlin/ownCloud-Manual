@@ -31,17 +31,18 @@ Im Auslieferungszustand von nimmerland ownCloud friends & family sind die Datei-
 
 ### Synchronisation mit deinen Geräten
 
-Für Windows, Android , MacOs, iOs und Linux gibt es Clients, die einen Ordner auf deinem Rechner mit deiner nimmerland ownCloud synchronisieren. So hast du auf allen Plattformen immer deine aktuellen Daten dabei. (Tipp: zu Beginn erst einen und dann den anderen Rechner synchronisieren)
+Für Windows, Android , MacOs, iOs und Linux gibt es ownCloud Clients, die einen Ordner auf deinem Rechner mit deiner nimmerland ownCloud synchronisieren. So hast du auf allen Plattformen immer deine wichtigen Dokumente dabei. Mit [Cyberduck](https://cyberduck.io/?l=de) oder [NetDrive](http://www.netdrive.net/) kannst du deine nimmerland ownCloud auf deinem PC als Netzlaufwerk einbinden. (Wenn du online bist hast du direkten Zugriff auf deine Dateien auch ohne Synchronisation.) Auf dem Mac unter Windows 10 oder auf einem Linux-Rechner brauchst du nicht einmal ein spezielle Software.
 
-Mit Cyberduck oder NetDrive kannst du Deine Cloud auf deinem PC als Netzlaufwerk einbinden. (Wenn du online bist hast du direkten Zugriff auf deine Dateien  - auch ohne Synchronisation.) Auf dem Mac oder einem Ubuntu-Rechner brauchst du nicht einmal ein spezielle Software.
+**Tipp:** Für Android-Geräte gibt es zwar mehrere Clients, die alle die gleiche Software-Grundlage zu haben scheinen Wir empfehlen dir '[folder sync](https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.full&hl=de)'. Es synchronisiert flexibel nur bestimmte Ordner und lässt sich hervorragend an deine Bedürfnisse anpassen.
 
-Tipp: Für Android-Geräte gibt es zwar mehrere Clients, die alle die gleiche Software-Grundlage zu haben scheinen Wir empfehlen dir 'folder sync'. Es synchronisiert flexibel nur bestimmte Ordner und lässt sich hervorragend an deine Bedürfnisse anpassen.
-Benutzer und Gruppen
+###Benutzer und Gruppen
 
-Als Administrator deiner Cloud kannst du weitere Nutzer und Gruppen anlegen. Prinzipiell bist dur nur durch deinen Speicherplatz begrenzt. Wir garantieren dir einen Benutzer je 3 GB Speicherplatz.
-Updates & Upgrades
+Als Superadministrator deiner ownCloud kannst du weitere Nutzer und auch Gruppen anlegen. Prinzipiell bist du nur durch deinen Speicherplatz begrenzt. Wir garantieren dir einen Benutzer je 3 GB Speicherplatz.
 
-Anders als bei Dropbox, Google und Co. läuft deine Cloud als eigene Instanz getrennt von allen anderen Installationen auf einem unserer Server. Der Preis für die nimmerland ownCloud friends & family ist knapp kalkuliert. Für Updates, Upgrades und Administration deiner Cloud bist du selbst verantwortlich. Entweder du benutzt du den ownCloud-Updater (auf eigene Gefahr) oder beauftragst uns damit. 
-Tarifwechsel
+### Updates & Upgrades
 
-Ein einfacher Wechsel von nimmerland ownCloud friends & family zu nimmerland ownCloud team ist leicht möglich. Wenn du zur nimmerland ownCloud basic wechseln willst, musst du deine Daten selbst umziehen.
+Anders als bei Dropbox, Google und Co. läuft deine nimmerland ownCloud als eigene Instanz getrennt von allen anderen Installationen auf einem unserer Server. Der Preis für die nimmerland ownCloud friends & family ist knapp kalkuliert. Für Updates, Upgrades und Administration deiner Cloud bist du selbst verantwortlich. Entweder du benutzt du den ownCloud-Updater (auf eigene Gefahr) oder beauftragst uns damit. 
+
+### Tarifwechsel
+
+Ein einfacher Wechsel von nimmerland ownCloud friends & family zu nimmerland ownCloud team ist leicht möglich. Wenn du zur nimmerland ownCloud basic wechseln willst, musst du deine Daten selbst umziehen. Für diesen Fall haben wir eine bebilderte Anleitung für dich.
