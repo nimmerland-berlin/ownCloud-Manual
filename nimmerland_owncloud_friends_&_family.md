@@ -17,13 +17,14 @@ Du startest mit 15 GB. Bei Bedarf kannst du Deine nimmerland ownCloud friends & 
 
 Unsere Server stehen in einem großen Berliner Rechenzentrum. Der Zugriff über das Internet erfolgt stets mit starker Transportverschlüsselung (HTTPS). Wir nutzen ein Class 2 Zertifikat von StartCom. [SSLLabs](https://www.ssllabs.com/ssltest/analyze.html?d=cloud.nimmerland.de) gibt uns die Bestnote A+.
 
-Als superadmin kannst du eine serverseitige Verschlüsselung einschalten. Weil die Schlüssel aber mit deinen Dateien auf dem Server liegen, gilt diese Verschlüsselung nicht als besonders sicher. 
+Als Superadmin kannst du die serverseitige Verschlüsselung einschalten. Weil die Schlüssel aber mit deinen Dateien auf dem Server liegen, gilt diese Verschlüsselung nicht als besonders sicher. 
 
 Für sehr hohe Sicherheitsbedürfnisse empfehlen wir dir clientseitige Verschlüsselung auf deinen Geräten, z.B. mit [Cloudfogger](https://www.cloudfogger.com/de/) oder [Boxcyptor](https://www.boxcryptor.com/de).
 
-###Papierkorb & Versionierung
+### Papierkorb & Versionierung
 
-nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien 180 Tage auf (solange du genug freien Speicherplatz in deiner Cloud hast). Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
+Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien bis zu 90 Tagen auf (solange du ausreichend freien Speicherplatz hast). Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
+
 Applications
 
 In nimmerland ownCloud friends & family sind nur die Standard-Module aktiviert. Seid ownCloud Server 8 sind auch das Kalender- und Kontaktemodul nicht mehr dabei. Mit deinem superadmin-Zugang kannst du weitere Applications aus einem Pool von uns installierter ownCloud-Erweiterungen aktivieren.
