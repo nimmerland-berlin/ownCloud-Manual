@@ -15,9 +15,9 @@ Du startest mit 5 GB. Bei Bedarf kannst du Deine nimmerland ownCloud basic auf i
 
 Unsere Server stehen in einem großen Berliner Rechenzentrum. Der Zugriff über das Internet erfolgt stets mit starker Transportverschlüsselung (HTTPS). Wir nutzen ein Class 2 Zertifikat von StartCom. [SSLLabs](https://www.ssllabs.com/ssltest/analyze.html?d=cloud.nimmerland.de) gibt uns die Bestnote A+. Deine Dateien liegen verschlüsselt auf unseren Servern. Für sehr hohe Sicherheitsbedürfnisse empfehlen wir dir allerdings clientseitige Verschlüsselung auf deinen Geräten, z.B. mit [Cloudfogger](https://www.cloudfogger.com/de/) oder [Boxcyptor](https://www.boxcryptor.com/de).
 
-### Versionierung
+### Papierkorb & Versionierung
 
-ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien 30 Tage auf. Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
+Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien 30 Tage auf. Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
 
 ### Features
 
