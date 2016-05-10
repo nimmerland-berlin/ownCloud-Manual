@@ -8,7 +8,7 @@ Im folgenden Manual bringen wir dir Einrichtung und Benutzung deiner nimmerland 
 
 Wir aktualisieren dieses Manual regelmäßig. Es bezieht sich in der Regel auf die beiden letzten Serverversionen von ownCloud. Wenn Du einen Fehler findest, oder Anregungen hast, nutze das [Kontaktformular](https://nimmerland.de/kontakt.html) auf der nimmerland.de Webseite. Dort erfährst Du auch, [warum wir nimmerland gegründet haben](https://nimmerland.de/warum.html) und Privatheit für ein Menschenrecht halten.
 
-Wir veröffentlichen dieses Buch auf gitbook.com. Dort kannst du es auch als PDF oder E-Book herunter laden. Dieses Manual ist ein Service für unsere Kunden. Obwohl ownCloud-Installationen anderer Anbieter sicher ähnlich sind, können wir keine Gewähr für das Funktionieren unserer Anleitungen bei Fremdinstallationen geben. Überhaupt: wir schreiben nach bestem Wissen und nach reichlicher Prüfung, schließen aber eine Haftung jedweder Art grundsätzlich aus.
+Wir veröffentlichen dieses Buch auf [gitbook.com](https://www.gitbook.com/book/tmberlin/nimmerland-owncloud-manual/details). Dort kannst du es auch als PDF oder E-Book herunter laden. Dieses Manual ist ein Service für unsere Kunden. Obwohl ownCloud-Installationen anderer Anbieter sicher ähnlich sind, können wir keine Gewähr für das Funktionieren unserer Anleitungen bei Fremdinstallationen geben. Überhaupt: wir schreiben nach bestem Wissen und nach reichlicher Prüfung, schließen aber eine Haftung jedweder Art grundsätzlich aus.
 
 Nun aber los, alles Gute aus Berlin, Thomas Michalak
 
