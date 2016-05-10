@@ -1,6 +1,6 @@
 # Summary
 
-* [nimmerland ownCloud friends & family manual](README.md)
+* [nimmerland ownCloud manual](README.md)
 * [Hallo!](hallo.md)
 * [Deine eigene ownCloud](deine_eigene_owncloud.md)
 * [Sicherheit](sicherheit/README.md)
