@@ -25,9 +25,9 @@ Für sehr hohe Sicherheitsbedürfnisse empfehlen wir dir clientseitige Verschlü
 
 Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien bis zu 90 Tagen auf (solange du ausreichend freien Speicherplatz hast). Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
 
-Applications
+### Applications
 
-In nimmerland ownCloud friends & family sind nur die Standard-Module aktiviert. Seid ownCloud Server 8 sind auch das Kalender- und Kontaktemodul nicht mehr dabei. Mit deinem superadmin-Zugang kannst du weitere Applications aus einem Pool von uns installierter ownCloud-Erweiterungen aktivieren.
+Im Auslieferungszustand von nimmerland ownCloud friends & family sind die Datei- und die Gallery-App aktiviert. Mit deinem Superadmin-Zugang kannst du weitere ownCloud-Module aus einem Pool von uns überprüfter ownCloud Applikationen aktivieren.
 Synchronisation mit deinen Geräten
 
 Für Windows, Android , MacOs, iOs und Linux gibt es Clients, die einen Ordner auf deinem Rechner mit deiner nimmerland ownCloud synchronisieren. So hast du auf allen Plattformen immer deine aktuellen Daten dabei. (Tipp: zu Beginn erst einen und dann den anderen Rechner synchronisieren)
