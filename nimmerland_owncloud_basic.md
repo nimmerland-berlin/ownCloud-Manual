@@ -17,7 +17,7 @@ Unsere Server stehen in einem großen Berliner Rechenzentrum. Der Zugriff über 
 
 ### Papierkorb & Versionierung
 
-Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien 30 Tage auf. Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
+Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien bis zu 30 Tagen auf (solange du ausreichend freien Speicherplatz hast). Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
 
 ### Features
 
