@@ -1,7 +1,7 @@
 # Summary
 
 * [nimmerland ownCloud manual](README.md)
-* [Hallo!](hallo.md)
+* [Willkommen!](hallo.md)
 * [Deine eigene ownCloud](deine_eigene_owncloud.md)
 * [Sicherheit](sicherheit/README.md)
    * [Transportverschlüsselung (https/ssl)](sicherheit/transportverschlusselung_httpsssl.md)
