@@ -53,6 +53,6 @@
 * [Nutzungsbedingungen & Haftung](nutzungsbedingungen_&_haftung.md)
 * [Tarifbeschreibungen](tarifbeschreibungen.md)
    * [nimmerland ownCloud basic](nimmerland_owncloud_basic.md)
-   * nimmerland ownCloud friends & family
+   * [nimmerland ownCloud friends & family](nimmerland_owncloud_friends_&_family.md)
 * [Herzlichen Glückwunsch](herzlichen_gluckwunsch.md)
 
