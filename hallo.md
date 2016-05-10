@@ -1,6 +1,9 @@
-# Guten Tag! {#hallo}
+# Guten Tag!
 
-Schön, dass du dich[^1] für **nimmerland ownCloud friends & family** entschieden hast. 'friends & family' ist unser preiswerter Tarif für kleine Gruppen oder Teams, die ihre ownCloud selbst administrieren wollen. Du kannst beliebig viele Nutzer und Gruppen anlegen (solange dein Speicherplatz reicht) und die Richtlinien für das Teilen von Dateien selbst bestimmen. Aus einem Pool von uns geprüfter Apps aktivierst du die Module, die du wirklich brauchst.
+Schön, dass du dich[^1] für eine **[nimmerland ownCloud](https://nimmerland.de)** entschieden hast. nimmerland ist ein Berliner ownCloud Provider, der sich auf kleine Firmen und Teams spezialisiert hat aber auch einen sehr günstgen Basistarif für alle anbietet. Wir wollen, dass du die volle Kontrolle über deine Daten hast. Im folgenden Manual bringen wir dir Einrichtung und Benutzung näher
+
+
+'friends & family' ist unser preiswerter Tarif für kleine Gruppen oder Teams, die ihre ownCloud selbst administrieren wollen. Du kannst beliebig viele Nutzer und Gruppen anlegen (solange dein Speicherplatz reicht) und die Richtlinien für das Teilen von Dateien selbst bestimmen. Aus einem Pool von uns geprüfter Apps aktivierst du die Module, die du wirklich brauchst.
 
 Deine Daten und die Backups liegen sicherer[^2] in einem Berliner Rechenzentrum. Daher gelten die strengen europäischen Datenschutzregeln. Unsere Server werden mit Naturstrom betrieben.
 
