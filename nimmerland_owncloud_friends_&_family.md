@@ -19,7 +19,7 @@ Unsere Server stehen in einem großen Berliner Rechenzentrum. Der Zugriff über 
 
 Als superadmin kannst du eine serverseitige Verschlüsselung einschalten. Weil die Schlüssel aber mit deinen Dateien auf dem Server liegen, gilt diese Verschlüsselung nicht als besonders sicher. 
 
-Für sehr hohe Sicherheitsbedürfnisse empfehlen wir dir allerdings clientseitige Verschlüsselung auf deinen Geräten, z.B. mit [Cloudfogger](https://www.cloudfogger.com/de/) oder [Boxcyptor](https://www.boxcryptor.com/de).
+Für sehr hohe Sicherheitsbedürfnisse empfehlen wir dir clientseitige Verschlüsselung auf deinen Geräten, z.B. mit [Cloudfogger](https://www.cloudfogger.com/de/) oder [Boxcyptor](https://www.boxcryptor.com/de).
 
 ###Papierkorb & Versionierung
 
