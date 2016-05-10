@@ -50,6 +50,7 @@
    * [Bekannte Probleme](benutze_deine_nimmerland_owncloud/bekannte_probleme.md)
    * [nimmerland ownCloud als Laufwerk einbinden](benutze_deine_nimmerland_owncloud/nimmerland_owncloud_als_laufwerk_einbinden.md)
 * [Service und so weiter](service_und_so_weiter.md)
+   * Tarifbeschreibungen
 * [Nutzungsbedingungen & Haftung](nutzungsbedingungen_&_haftung.md)
 * [Herzlichen Glückwunsch](herzlichen_gluckwunsch.md)
 
