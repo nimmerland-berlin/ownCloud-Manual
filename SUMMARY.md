@@ -52,6 +52,6 @@
 * [Service und so weiter](service_und_so_weiter.md)
 * [Nutzungsbedingungen & Haftung](nutzungsbedingungen_&_haftung.md)
 * [Tarifbeschreibungen](tarifbeschreibungen.md)
-   * nimmerland ownCloud basic
+   * [nimmerland ownCloud basic](nimmerland_owncloud_basic.md)
 * [Herzlichen Glückwunsch](herzlichen_gluckwunsch.md)
 
