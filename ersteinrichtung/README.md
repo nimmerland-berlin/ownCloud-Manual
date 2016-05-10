@@ -1,1 +1,1 @@
-# **Ersteinrichtung** {#ersteinrichtung}
+# Ersteinrichtung {#ersteinrichtung}
