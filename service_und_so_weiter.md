@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
 # Service und so weiter {#service-und-so-weiter}
 
 Um vielen da draußen einen guten sicheren Service zu bieten, kostet nimmerland-cloud friends & family wenig Geld. Damit das funktioniert, darf es uns auch fast keine zusätzliche Arbeit machen. Natürlich helfen wir dir bei Fragen gern. Bevor du schreibst, schau aber mal selbst im FAQ oder bei [DuckDuckGo](https://duckduckgo.com/), ob du eine Lösung für dein Problem findest.
