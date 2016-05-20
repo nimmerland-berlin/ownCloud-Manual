@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
 ## Bookmarks {#bookmarks}
 
 Deine eigene Lesezeichenverwaltung. Lesezeichen (und damit ein Abbild deiner Interessen) werden nur in deiner nimmerland ownCloud und nicht auf dem Server eines Browserherstellers bzw. Auf den Servern von Apple oder Google gespeichert. Zurzeit gibt es keine Synchronisation mit Browsern, jedoch Plug-ins, Snippets und mobile Apps, mit denen du auf deine ownCloud-Lesezeichen zugreifen kannst.
