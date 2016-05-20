@@ -1,4 +1,9 @@
-## Kalender & Kontakte {#kalender-kontakte}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Kalender & Kontakte
 
 Sind seid ownCloud 8 keine Standard-Apps mehr. Wenn Du sie benutzen möchtest, musst du sie als Superadministrator aktivieren. Wie du Deinen Kalender und Deine Kontakte mit deinen Mailprogrammen und mobilen Geräten synchronisierst, erfährst du in der Hilfe. Ein paar deutschsprachige Anleitungen sind auf unserer [Webseite](https://nimmerland.de/anleitungen.html) verlinkt. Du kannst auch [DuckDuckGo](https://duckduckgo.com/) fragen.
 
