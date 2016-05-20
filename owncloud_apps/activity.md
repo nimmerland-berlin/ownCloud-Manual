@@ -1,4 +1,6 @@
-![](https://lehre.nimmerland.de/s/BXgK9ixvaRY9MoB/download)
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <strong>nimmerland ownCloud team</strong>
+</div>
 
 ## Activity {#activity}
 
