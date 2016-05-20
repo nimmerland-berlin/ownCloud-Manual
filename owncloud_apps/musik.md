@@ -1,4 +1,9 @@
-## **Musik** {#musik}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Musik
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00012.PNG)Mp3-Dateien in deiner Cloud kannst du im Web-Interface anhören. Du kannst eine Apache-fähige Player-App auf deinen mobilen Geräten verwenden und die Musik direkt aus deiner Cloud streamen. Dieses Feature ist experimentell.
 
