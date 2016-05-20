@@ -1,4 +1,9 @@
-# Nutzungsbedingungen & Haftung {#nutzungsbedingungen-haftung}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+# Nutzungsbedingungen & Haftung
 
 nimmerland friends & family wendet sich an Privatanwender. Wir tun alles für einen stabilen Service und geschmeidige Nutzung können dir aber keine ungestörte Verfügbarkeit deiner Daten garantieren. Auch wenn wir ein nächtliches Backup durchführen, liegt es in deiner Verantwortung deine Daten zu sichern. Für direkte und indirekte Schäden, die sich aus der Nutzung unserer Dienste ergeben, können wir nicht haften. Wir schließen das ausdrücklich aus.
 
