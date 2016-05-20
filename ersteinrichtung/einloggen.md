@@ -1,12 +1,12 @@
-## **Einloggen** {#einloggen}
+## Einloggen
 
 Logge dich zuerst als Superadministrator mit deinem 12-stelligen Passwort ein.
 
-![](nila-oc8-friends-ersteinrichtung-Dateien/img00014.PNG)
+![](https://lehre.nimmerland.de/s/jFVy4IpOrU8KZQ0/download)
 
-Wenn du dich zum ersten Mal einloggst, hilft Dir ein Assistent dabei deinen Computer und dein mobiles Gerät mit deiner Cloud zu verbinden, sodass du deine Daten jederzeit und überall synchron halten kannst.
+Wenn du dich zum ersten Mal einloggst, hilft Dir ein Assistent dabei, deinen Computer und dein mobiles Gerät mit der nimmerland ownCloud zu verbinden, sodass du deine Daten jederzeit und überall synchron halten kannst.
 
-![](nila-oc8-friends-ersteinrichtung-Dateien/img00015.PNG)
+![](https://lehre.nimmerland.de/s/OK9vtB403T5v8Nw/download)
 
 Du musst das nicht gleich tun, du kannst den Assistenten jederzeit wieder aufrufen. Wir empfehlen dir deine nimmerland ownCloud im Alltag nicht als Superadministrator, sondern mit einem einfachen Benutzeraccount zu verwenden.
 
