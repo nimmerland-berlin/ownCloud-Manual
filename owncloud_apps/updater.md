@@ -1,4 +1,9 @@
-## **Updater** {#updater}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für 
+<strong>nimmerland ownCloud friends & family</strong>
+</div>
+
+## Updater
 
 Der Updater informiert dich über mögliche Update- oder Upgrade-Versionen und erlaubt dir, sie über dein Webfrontend durchzuführen. Wir haben schlechte Erfahrungen mit dieser Funktion, gerade bei eingeschalteter serverseitiger Verschlüsselung gemacht und raten dir in diesem Fall von der Benutzung ab.
 
