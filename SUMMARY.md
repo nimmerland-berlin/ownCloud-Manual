@@ -13,7 +13,7 @@
    * [Der Gruppenadministrator](accounts/der_gruppenadministrator.md)
    * [Einfache Benutzer](accounts/einfache_benutzer.md)
 * [Password Policy](owncloud_apps/password_policy.md)
-   * Passworte
+   * [Passworte](owncloud_apps/passworte.md)
 * [ownCloud Apps](owncloud_apps/README.md)
    * [Activity](owncloud_apps/activity.md)
    * [Datei-Versionen](owncloud_apps/datei-versionen.md)
