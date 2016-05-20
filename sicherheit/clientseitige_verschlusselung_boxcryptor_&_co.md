@@ -1,4 +1,9 @@
-## Clientseitige Verschlüsselung (Boxcryptor & Co.) {#clientseitige-verschl-sselung-boxcryptor-co}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Clientseitige Verschlüsselung (Boxcryptor & Co.)
 
 Deine Daten sind bestens vor fremden Blicken geschützt, wenn sie lokal auf deinen Geräten verschlüsselt werden, bevor sie in deine nimmerland ownCloud hochgeladen werden. Die Schlüssel bleiben auf deinem Rechner. Zwei deutsche Firmen bieten gut getestete Software dazu an: [Boxcryptor](https://www.boxcryptor.com/) wird kontinuierlich weiterentwickelt und bietet Clients für alle Betriebssysteme und mobilen Geräte. Boxcryptor hat erlaubt Zugriffsrechte nach Ordnern, Benutzern oder Gruppen differenziert zu vergeben und eignet sich daher besonders für Teams und kleine Firmen. Eine sehr eingeschränkte Version ist für den Privatanwender kostenlos.
 
