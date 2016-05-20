@@ -2,7 +2,7 @@
 
 * [nimmerland ownCloud manual](README.md)
 * [Willkommen!](hallo.md)
-* [Tarifbeschreibungen](tarifbeschreibungen.md)
+* [Tarife](tarifbeschreibungen.md)
    * [nimmerland ownCloud basic](nimmerland_owncloud_basic.md)
    * [nimmerland ownCloud friends & family](nimmerland_owncloud_friends_&_family.md)
 * [Deine nimmerland ownCloud Installation](deine_eigene_owncloud.md)
