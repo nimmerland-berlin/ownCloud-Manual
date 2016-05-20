@@ -1,12 +1,12 @@
-## **Administrator Einstellungen** {#administrator-einstellungen}
+## Superadministrator Einstellungen
 
 Die Liste deiner Einstellmöglichkeiten hängt von deinen aktivierten ownCloud Apps ab. In den meisten Fällen sind sie selbsterklärend. Falls nicht, schau in die Hilfe oder frag unseren Support.
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00017.PNG)
 
-### **Dokumente** {#dokumente}
+### Dokumente
 
-Die MS Word Unterstützung ist auf unseren Servern deaktiviert.
+Die MS Word Unterstützung ist in der nimmerland ownCloud team aktiviert.
 
 ### **Serverseitige Verschlüsselung** {#serverseitige-verschl-sselung}
 
