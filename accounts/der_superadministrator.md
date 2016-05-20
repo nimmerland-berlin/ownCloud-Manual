@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud friends & family | team</strong>
+</div>
+
 ## Der Superadministrator {#der-superadministrator}
 
 Als Superadmin legst du Benutzer und Gruppen an, aktivierst Apps und legst die Regeln für das Teilen von Dateien fest. Du entscheidest, ob du die clientseitige Verschlüsselung benutzen willst und ob deine Nutzer Dropbox oder Google-Drive Speicherplatz integrieren dürfen.
