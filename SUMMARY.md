@@ -24,8 +24,6 @@
    * [ownNote - Notizen](owncloud_apps/ownnote_-_notizen.md)
    * [Bookmarks](owncloud_apps/bookmarks.md)
    * [External Storage Support](owncloud_apps/external_storage_support.md)
-   * [Password Policy](owncloud_apps/password_policy.md)
-       * Passworte
    * [Encryption](owncloud_apps/encryption.md)
    * [Musik](owncloud_apps/musik.md)
    * [News](owncloud_apps/news.md)
