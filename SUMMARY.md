@@ -12,6 +12,8 @@
    * [Der Superadministrator](accounts/der_superadministrator.md)
    * [Der Gruppenadministrator](accounts/der_gruppenadministrator.md)
    * [Einfache Benutzer](accounts/einfache_benutzer.md)
+* [Password Policy](owncloud_apps/password_policy.md)
+   * Passworte
 * [ownCloud Apps](owncloud_apps/README.md)
    * [Activity](owncloud_apps/activity.md)
    * [Datei-Versionen](owncloud_apps/datei-versionen.md)
