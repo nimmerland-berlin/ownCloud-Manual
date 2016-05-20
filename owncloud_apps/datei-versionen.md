@@ -1,4 +1,9 @@
-## Dateien und Versionierung {#datei-versionen}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Dateien und Versionierung
 
 ### Dateien
 Kernfunktion deiner nimmerland ownCloud ist der Umgang mit eigenen oder geteilten Dateien. Die Weboberfläche bietet dabei viele Möglichkeiten, die du in deinen synchronisierten Ordnern nicht findest.
