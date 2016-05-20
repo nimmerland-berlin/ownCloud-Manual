@@ -1,4 +1,9 @@
-## Hilfen & Anleitungen {#hilfen-anleitungen}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Hilfen & Anleitungen
 
 Auf der Weboberfläche Deiner nimmerland ownCloud findest du eine Hilfe, teilweise in deutscher Übersetzung. Du findest sie nach dem Login im Drop-Down-Menü unter deinem Namen. Hier findest du auch Links zu ownCoud-Community. Gerade bei speziellen Problemen hilft ein Blick in die Foren.
 
