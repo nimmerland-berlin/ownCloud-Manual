@@ -1,4 +1,9 @@
-## nimmerland ownCloud als Laufwerk einbinden {#nimmerland-owncloud-als-laufwerk-einbinden}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## nimmerland ownCloud als Laufwerk einbinden
 
 Grundsätzlich kannst du deine Cloud auf allen Betriebssystemen als Laufwerk einbinden. So kannst du – solange du online bist – auch ohne Synchronisation auf deine Dateien zugreifen. Das funktioniert problemlos mit Windows 10, Apple- und Linux- Rechnern. Ältere Windowsversionen haben leider Probleme mit der starken Transportverschlüsselung (https/ssl). Anleitungen für dein Betriebssystem findest du im Netz.
 
