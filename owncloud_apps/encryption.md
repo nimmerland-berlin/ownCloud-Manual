@@ -1,4 +1,9 @@
-## **Encryption** {#encryption}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Encryption
 
 Die serverseitige Verschlüsselung kann nur vom Superadministraor ein- oder ausgeschaltet werden. Ist die Verschlüsselung eingeschaltet, bedeutet ein Verlust des Passwortes in der Regel auch einen Verlust der Lesbarkeit der Dateien.
 
