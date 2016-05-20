@@ -1,4 +1,9 @@
-## Der Gruppenadministrator {#der-gruppenadministrator}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud friends & family | team</strong>
+</div>
+
+## Der Gruppenadministrator
 
 Falls du eine Gruppe eingerichtet hast, kannst du einen oder mehrere Benutzer zu Gruppenadministratoren machen. Als Gruppenadministrator teilst du den Speicherplatz zwischen den Gruppenmitgliedern auf, fügst neue Mitglieder hinzu oder entfernst sie aus eurer Gruppe. Die Anzahl der Gruppenmitglieder ist nur durch euren Speicherplatz begrenzt.
 
