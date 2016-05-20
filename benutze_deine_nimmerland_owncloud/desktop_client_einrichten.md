@@ -1,10 +1,15 @@
-## **Desktop Client einrichten** {#desktop-client-einrichten}
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
+## Desktop Client einrichten
 
 Der Desktop-Client synchronisiert einzelne Ordner deiner nimmerland ownCloud mit deinem lokalen Rechner. Du kannst den passenden Client für dein Betriebssystem kostenlos bei [owncloud.org](https://owncloud.org/install/) herunterladen und installieren.
 
 Stand Dezember 2015 ist der ownCloud Desktop Client 2.1 aktuell.
 
-### **Zugangsdaten eingeben** {#zugangsdaten-eingeben}
+### Zugangsdaten eingeben
 
 Rufe den Verbindungsassistenten auf und gib die URL deiner nimmerland ownCloud und deine Zugangsdaten ein.
 
@@ -14,7 +19,7 @@ Die Transportverschlüsselung ist dauerhaft eingeschaltet.
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00025.PNG)
 
-### **Wähle deinen lokalen Synchronisations-Ordner** {#w-hle-deinen-lokalen-synchronisations-ordner}
+### Wähle deinen lokalen Synchronisations-Ordner
 
 Seit der Desktop-Client Version 1.7 kannst du die Ordner in der Cloud auswählen, die mit deinem lokalen Computer synchronisiert werden sollen.
 
@@ -26,7 +31,7 @@ Nach erfolgreichem Start zieht sich der ownCloud Desktop-Client in den Systemtra
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00027.PNG)
 
-### **Die Einstellungen des Desktop Clients** {#die-einstellungen-des-desktop-clients}
+### Die Einstellungen des Desktop Clients
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00028.PNG)
 
@@ -34,7 +39,7 @@ Neu in Version 2.0 ff. Ist, dass das Synchronisieren von Ordnern, die mehr als 5
 
 **Tipp: **Werden nach einem (automatischen) Client-Update nicht mehr alle Ordner wie gewohnt synchronisiert, liegt die Ursache wahrscheinlich in dieser Voreinstellung.
 
-### **Mehrere ownCloud-Accounts** {#mehrere-owncloud-accounts}
+### Mehrere ownCloud-Accounts
 
 Ebenfalls neu ist die Möglichkeit, mehrere ownCloud-Accounts mit deinem Rechner zu synchronisieren. Nach der Wahl von „Ein Konto hinzufügen“ startet eine weitere Einrichtung.
 
@@ -42,13 +47,13 @@ Deine Accounts findest du als separate Tabs in der Client -Software. Hier kannst
 
 ![](nila-oc8-friends-ersteinrichtung-Dateien/img00029.PNG)
 
-### **Updates** {#updates}
+### Updates
 
 Neuere Versionen laden Updates im Hintergrund und führen sie selbstständig aus. Damit soll gewährleistet sein, dass Du immer mit einer aktuellen Software arbeitest. Sollte ein automatisches Update scheitern, kannst du es auch manuell durchführen.
 
 Zum Überprüfen der Version und zum manuellen Update öffne die "Einstellungen" des Programms aus der Taskleiste (Windows rechts unten, MacOs rechts oben)
 
-### **Empfohlene Programme** {#empfohlene-programme}
+### Empfohlene Programme
 
 [ownCloud Desktop-Client](https://owncloud.org/install/#install-clients) (aktualisiere den Client regelmäßig)
 
