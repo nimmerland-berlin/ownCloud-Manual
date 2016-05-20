@@ -15,7 +15,7 @@
 * [ownCloud Apps](owncloud_apps/README.md)
    * [Activity](owncloud_apps/activity.md)
    * [Dateimanager](owncloud_apps/datei-versionen.md)
-   * [Bilder / Galerie](owncloud_apps/bilder__galerie.md)
+   * [Galerie](owncloud_apps/bilder__galerie.md)
    * [Kalender](owncloud_apps/kalender.md)
    * [Kontakte](owncloud_apps/kontakte.md)
    * [Dokumente](owncloud_apps/dokumente.md)
