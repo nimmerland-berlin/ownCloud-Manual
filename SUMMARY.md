@@ -21,7 +21,7 @@
    * [Dokumente](owncloud_apps/dokumente.md)
    * [ownNote - Notizen](owncloud_apps/ownnote_-_notizen.md)
    * [Bookmarks](owncloud_apps/bookmarks.md)
-   * [Passworte](owncloud_apps/passworte.md)
+   * [Passmanager,](owncloud_apps/passworte.md)
    * [Password Policy](owncloud_apps/password_policy.md)
    * [External Storage Support](owncloud_apps/external_storage_support.md)
    * [Encryption](owncloud_apps/encryption.md)
