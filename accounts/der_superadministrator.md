@@ -5,7 +5,7 @@ Der folgende Abschnitt gilt für <br>
 
 ## Der Superadministrator {#der-superadministrator}
 
-Als Superadmin legst du Benutzer und Gruppen an, aktivierst Apps und legst die Regeln für das Teilen von Dateien fest. Du entscheidest, ob du die clientseitige Verschlüsselung benutzen willst und ob deine Nutzer Dropbox oder Google-Drive Speicherplatz integrieren dürfen.
+Falls Du entschieden hast, deine nimmerland ownCloud selbst zu administrieren, bekommst du die Kennung für einen **Superadministrator**-Zugang. Als Superadmin legst du Benutzer und Gruppen an, aktivierst Apps und legst die Regeln für das Teilen von Dateien fest. Du entscheidest, ob du die clientseitige Verschlüsselung benutzen willst und ob deine Nutzer Dropbox oder Google-Drive Speicherplatz integrieren dürfen.
 
 Den 'superadmin' brauchst du, wenn ein Gruppenmitglied sein Passwort vergessen hat. Nur als Superadministrator kannst du verschlüsselte Daten nach einem Passwortreset wieder herstellen. Dazu musst du ein Recoverypasswort gesetzt haben und deine Nutzer müssen (bevor der Ernstfall eingetreten ist) einer Wiederherstellung zustimmen.
 
