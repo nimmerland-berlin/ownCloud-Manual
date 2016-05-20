@@ -30,6 +30,7 @@
    * [PDF](owncloud_apps/pdf.md)
    * [Updater](owncloud_apps/updater.md)
    * [Video](owncloud_apps/video.md)
+   * Aufgaben (Tasks)
 * [Ersteinrichtung](ersteinrichtung/README.md)
    * [Einloggen](ersteinrichtung/einloggen.md)
    * [ownCloud Apps aktivieren](ersteinrichtung/owncloud_apps_aktivieren.md)
