@@ -1,4 +1,6 @@
-**Ein paar Einstellungen haben wir optimiert und raten dir, sie nicht zu ändern:**
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <strong>nimmerland ownCloud friends & family | team</strong>
+</div>
 
 ## Superadministrator Einstellungen
 
