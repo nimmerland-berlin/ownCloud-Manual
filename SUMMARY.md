@@ -12,7 +12,7 @@
    * [Der Superadministrator](accounts/der_superadministrator.md)
    * [Der Gruppenadministrator](accounts/der_gruppenadministrator.md)
    * [Einfache Benutzer](accounts/einfache_benutzer.md)
-* [ownCloud Apps](owncloud_apps/README.md)
+* [ownCloud Module](owncloud_apps/README.md)
    * [Activity](owncloud_apps/activity.md)
    * [Dateimanager](owncloud_apps/datei-versionen.md)
    * [Galerie](owncloud_apps/bilder__galerie.md)
