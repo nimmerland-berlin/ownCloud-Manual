@@ -1,4 +1,4 @@
-# Herzlichen Glückwunsch {#herzlichen-gl-ckwunsch}
+# Herzlichen Glückwunsch
 
 Du hast deine nimmerland ownCloud eingerichtet. Wir wünschen dir viel Spaß beim Entdecken deiner neuen Möglichkeiten.
 
