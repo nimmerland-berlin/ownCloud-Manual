@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
 # Tarifbeschreibungen
 Wir bieten dir drei Modelle. nimmerland owncloud basic haben wir besonders günstig und komfortabel gemacht. Viele Bilder, aktuelle Dokumente und all deine Termine, Aufgaben und Adressen kannst Du so sicher auf einem deutschen Server speichern und mit all deinen mobilen Geräten synchronisieren und mit deinen Freunden teilen.
 
