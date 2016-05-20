@@ -1,4 +1,4 @@
-## **Die Synchronisation** {#die-synchronisation}
+## Die Synchronisation
 
 Der Abgleich von Änderungen an deinen Dateien braucht Zeit. Der Dateiupload ist bei den meisten Internet-Anschlüssen wesentliche langsamer als der Download. Der Synchronisations-Client hält sich im Hintergrund und nutzt Zeiten, in denen du das Netz nicht für andere Zwecke brauchst.
 
