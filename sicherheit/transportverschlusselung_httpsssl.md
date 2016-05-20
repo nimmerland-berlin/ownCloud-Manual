@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
 ## Transportverschlüsselung (https/ssl) {#transportverschl-sselung-https-ssl}
 
 Auf dem Weg durch das Internet sind deine Daten verschlüsselt. Wir nutzen Class 2 Wildcard Zertifikate von StartCom. Du kennst das von deinen Bankgeschäften: Ein Schloss in der Adressleiste deines Browsers zeigt dir eine verschlüsselte Verbindung an. Du kannst auf das Schloss klicken, um Genaueres über die Verschlüsselung zu erfahren.
