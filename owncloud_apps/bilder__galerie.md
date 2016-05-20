@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <br>
+<strong>nimmerland ownCloud basic | friends & family | team</strong>
+</div>
+
 ## Bilder / Galerie {#bilder-galerie} ##
 
 Dein Fotoalbum. Du kannst Alben (Ordner) teilen. JPGs und PNGs können als selbstablaufende Diashow angesehen werden. Die App ist standardmäßig aktiviert.
