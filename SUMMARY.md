@@ -2,7 +2,7 @@
 
 * [nimmerland ownCloud manual](README.md)
 * [Willkommen!](hallo.md)
-* [Deine eigene ownCloud](deine_eigene_owncloud.md)
+* [Deine nimmerland ownCloud Installation](deine_eigene_owncloud.md)
 * [Sicherheit](sicherheit/README.md)
    * [Transportverschlüsselung (https/ssl)](sicherheit/transportverschlusselung_httpsssl.md)
    * [Serverseitige Verschlüsselung (ownCloud)](sicherheit/serverseitige_verschlusselung_owncloud.md)
