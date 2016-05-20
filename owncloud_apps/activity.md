@@ -1,11 +1,11 @@
-![](favicon-nila.png)![](favicon-nila.png)![](favicon-nila.png)
+![](https://lehre.nimmerland.de/s/BXgK9ixvaRY9MoB/download)
 
 ## Activity {#activity}
 
 Der Activity-Report führt Protokoll über deine Aktivitäten und die deiner Nutzer. Du kannst nachvollziehen, wann und mit wem du eine Datei geteilt hast, sie bearbeitet oder gelöscht hast.
 
 <div class="alert alert-warning">
-Sprich mit den anderen Nutzern deiner nmmerland ownCloud darüber, ob ihr die Activity-App einsetzen wollt. Denn als Superadmin erfährst du, wer welche Dateien in die Cloud lädt und wann sie bearbeitet wird.
+Sprich mit den anderen Nutzern deiner nmmerland ownCloud darüber, ob ihr die Activity-App einsetzen wollt. Denn als Superadmin erfährst du, wer welche Dateien in die Cloud lädt und wann sie bearbeitet werden.
 </div>
 
 ![Der Acitvity-Report protokolliert Veränderungen an Dateien.](https://lehre.nimmerland.de/index.php/s/XoKJPgvLJ4d3gNA/download)
