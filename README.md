@@ -2,6 +2,9 @@
 
 # nimmerland ownCloud
 ## Handbuch und Anleitung zur Ersteinrichtung
+
+
+
 In diesem Handbuch erfährst du alles Wichtige zur Nutzung deiner nimmerland ownCloud. Du findest Hinweise, Tipps und Anleitungen für [nimmerland ownCloud team](https://nimmerland.de/nimmerland-cloud-team.html), [nimmerland ownCloud friends & familiy](https://nimmerland.de/nimmerland-cloud-friends-family.html) und [nimmerland ownCloud basic](https://nimmerland.de/nimmerland-cloud-basic.html).
 
 nimmerland hat sich auf maßgeschneiderte ownCloud Installationen für kleine Firmen, Teams oder Arbeitsgruppen spezialisiert. Wir beraten Euch bei der Planung und Einrichtung und übernehmen auf Wunsch die komplette Administration. Für Anfragen benutzt unser [Kontaktformular](https://nimmerland.de/kontakt.html). Wir können dann gerne einen Telefontermin vereinbaren.
