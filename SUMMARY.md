@@ -2,6 +2,9 @@
 
 * [nimmerland ownCloud manual](README.md)
 * [Willkommen!](hallo.md)
+* [Tarifbeschreibungen](tarifbeschreibungen.md)
+   * [nimmerland ownCloud basic](nimmerland_owncloud_basic.md)
+   * [nimmerland ownCloud friends & family](nimmerland_owncloud_friends_&_family.md)
 * [Deine nimmerland ownCloud Installation](deine_eigene_owncloud.md)
 * [Sicherheit](sicherheit/README.md)
    * [Transportverschlüsselung (https/ssl)](sicherheit/transportverschlusselung_httpsssl.md)
@@ -53,8 +56,5 @@
    * [nimmerland ownCloud als Laufwerk einbinden](benutze_deine_nimmerland_owncloud/nimmerland_owncloud_als_laufwerk_einbinden.md)
 * [Service und so weiter](service_und_so_weiter.md)
 * [Nutzungsbedingungen & Haftung](nutzungsbedingungen_&_haftung.md)
-* [Tarifbeschreibungen](tarifbeschreibungen.md)
-   * [nimmerland ownCloud basic](nimmerland_owncloud_basic.md)
-   * [nimmerland ownCloud friends & family](nimmerland_owncloud_friends_&_family.md)
 * [Herzlichen Glückwunsch](herzlichen_gluckwunsch.md)
 
