@@ -1,3 +1,7 @@
+<div class="alert alert-info">
+Der folgende Abschnitt gilt für <strong>nimmerland ownCloud friends & family | team</strong>
+</div>
+
 ## ownCloud Module (App's) aktivieren
 
 Deine nimmerland ownCloud kommt mit ausgesuchten und von uns geprüften Modulen. Aktiviere die, die du brauchst. Weniger bedeuten bessere Performance und mehr Übersichtlichkeit für deine Benutzer.
