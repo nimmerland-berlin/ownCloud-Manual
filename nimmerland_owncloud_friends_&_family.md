@@ -25,7 +25,7 @@ Für sehr hohe Sicherheitsbedürfnisse empfehlen wir dir clientseitige Verschlü
 
 Der nimmerland ownCloud Server speichert ältere Versionen deiner Dateien und hebt auch gelöschte Dateien bis zu 90 Tagen auf (solange du ausreichend freien Speicherplatz hast). Über die Weboberfläche kannst du sie jederzeit wiederherstellen.
 
-### Applications
+### Module
 
 Im Auslieferungszustand von nimmerland ownCloud friends & family sind die Datei- und die Gallery-App aktiviert. Mit deinem Superadmin-Zugang kannst du weitere ownCloud-Module aus einem Pool von uns überprüfter ownCloud Applikationen aktivieren.
 
