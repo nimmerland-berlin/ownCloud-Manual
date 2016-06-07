@@ -2,9 +2,9 @@
 Der folgende Abschnitt gilt für <strong>nimmerland ownCloud team</strong>
 </div>
 
-## Dokumente {#dokumente}
+## Dokumente
 
-Die ownCloud App 'Dokumente' lässt dich einfache Texte im Libre- oder Open-Office-Format öffnen, anlegen und bearbeiten. Du kannst sogar mit mehreren Personen an geteilten Dateien gleichzeitig arbeiten. Jeder bekommt seine eigene Cursorfarbe und du sieht life wer gerade wo schreibt. Der Microsoft Word-Konverter ist auf den nimmerland-Servern <u>nicht</u> installiert.
+Die ownCloud App 'Dokumente' lässt dich einfache Texte im Word- oder Open-Office-Format öffnen und bearbeiten. Du kannst sogar mit mehreren Personen an geteilten Dateien gleichzeitig arbeiten. Jeder bekommt seinen eigene Cursorfarbe.
 
 ![](https://lehre.nimmerland.de/index.php/s/EZPfB8FfPNXVLEi/download)
 
