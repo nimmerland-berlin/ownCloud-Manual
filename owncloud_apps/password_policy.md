@@ -4,8 +4,8 @@ Der folgende Abschnitt gilt für <br>
 </div>
 ## Password Policy
 
-Damit du und deine Mitnutzer wirklich sichere Passwörter benutzen, kannst du als Superadministrator in deinen Optionen eine Password Policy vorschreiben. Wir empfehlen Passworte mit 8-12 Zeichen Länge, die Ziffern, Groß- und Kleinbuchstaben und Sonderzeichen enthalten.
+Damit du und deine Mitnutzer wirklich sichere Passwörter benutzen, kannst du als Superadministrator in deinen Optionen eine Password Policy vorschreiben. Wir empfehlen Passworte ab 12 Zeichen Länge, die Ziffern, Groß- und Kleinbuchstaben und Sonderzeichen enthalten.
 
+
+![](https://lehre.nimmerland.de/s/cPA6tJcpdLb23Pr/download)
 Die Einstellungen kann nur der Superadministrator vornehmen.
-
-![](nila-oc8-friends-ersteinrichtung-Dateien/img00013.PNG)
