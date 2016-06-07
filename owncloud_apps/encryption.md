@@ -7,6 +7,8 @@ Der folgende Abschnitt gilt für <br>
 
 Die serverseitige Verschlüsselung kann nur vom Superadministraor ein- oder ausgeschaltet werden. Ist die Verschlüsselung eingeschaltet, bedeutet ein Verlust des Passwortes in der Regel auch einen Verlust der Lesbarkeit der Dateien.
 
+![](https://lehre.nimmerland.de/s/cJwbDfRzRe5NHCc/download)
+
 <div class="alert alert-warning">
 Nur wenn der Superadministrator in seinen Optionen ein <strong>Wiederherstellungspasswort</strong> setzt, kann er dir ein neues Passwort zuweisen und deine Dateien wieder lesbar machen.
 </div>
