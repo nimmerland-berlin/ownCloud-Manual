@@ -15,7 +15,7 @@ Sprich mit den anderen Nutzern deiner nmmerland ownCloud darüber, ob ihr die Ac
 ![So könnte ein Aktivitäten-Protokoll aussehen.](https://lehre.nimmerland.de/index.php/s/W7EZUOGg06p2KVK/download)
 
 <div class="alert alert-info">
-Der Superadministrator muss diese App aktivieren, sie ist standardmäßig nicht aktiviert.
+Der Superadministrator muss dieses Modul aktivieren, es ist standardmäßig nicht aktiviert.
 </div>
 
 ### Links
