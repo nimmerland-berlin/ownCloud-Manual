@@ -2,7 +2,7 @@
 Der folgende Abschnitt gilt für <strong>nimmerland ownCloud team</strong>
 </div>
 
-## Activity {#activity}
+## Activity
 
 Der Activity-Report führt Protokoll über deine Aktivitäten und die deiner Nutzer. Du kannst nachvollziehen, wann und mit wem du eine Datei geteilt hast, sie bearbeitet oder gelöscht hast.
 
