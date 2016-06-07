@@ -18,7 +18,8 @@ Für alle Tarife gilt:
 - Naturstrom der NaturEnergie AG
 - Laufzeit 1 Jahr, keine automatische Verlängerung
 - 100% Open Source
-- Sicherheitsupdates inklusive
+- Updates inklusive (ab OC 9)
+
 
 |Tarife|nimmerland ownCloud basic|nimmerland ownCloud friends & family|nimmerland ownCloud team|
 |--|--|--|--|
@@ -32,6 +33,7 @@ Für alle Tarife gilt:
 |Corporate Design|nimmerland|nimmerland|dein Logo und deine Farben auf der Startseite|
 |Domain|cloud.nimmerland.de|wunschname.nimmerland.de| wunschname.nimmerland.de <br>eigene Domain möglich|
 |Support|Deutsches Manual|Deutsches Manual|Manual, Mail, Phone, Remote|
+|Upgrades|a.s.a.p.|ab ownCloud Server 9 inkl.|inklusive|
 |Preis|ab 12 Euro im Jahr|ab 36 Euro im Jahr|ab 96 Euro im Jahr|
 
 
