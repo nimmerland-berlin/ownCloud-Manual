@@ -20,7 +20,7 @@ Bei der Einrichtung einer sinnvollen Struktur mit vererbten Dateirechten und ein
 </div>
 
 ### Kommentare und Tags
-Das ist **das** Feature (seit ownCloud 9) für die Zusammenarbeit im Team. Jeder kann einer Datei Kommentare (z.B. über den Bearbeitungsstand, notwenidige Schritte, etc.) hinzufügen.
+Das ist **das** Feature (seit ownCloud 9) für die Zusammenarbeit im Team. Jeder kann einer Datei Kommentare (z.B. über den Bearbeitungsstand, notwendige Schritte, etc.) hinzufügen.
 
 ![Kommentare und gemeinschaftliche Tags sind eine große Hilfe für die Zusammenarbeit im Team.](https://lehre.nimmerland.de/index.php/s/U84Gpa4gZz0UtUa/download)
 
