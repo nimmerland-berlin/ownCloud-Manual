@@ -1,3 +1,6 @@
+"styles": {
+    "website": "/styles/website.scss"
+}
 {
     "plugins": [
         "image-captions",
