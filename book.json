@@ -12,11 +12,5 @@
           ],
     "pluginsConfig": {
     "insert-logo": {"url": "https://nimmerland.de/files/blue_business/logo-entwurf-03-blau.png"}
-    "page-footer": {
-    "description": "modified at",
-    "signature": "nimmerland berlin",
-    "wisdom": "take control over your data ...",
-    "copyright": "Copyright &#169; nimmerland berlin"
-          }
-    }
+        }
   }
