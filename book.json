@@ -5,8 +5,9 @@
         "styleguide",
         "share",
         "insert-logo",
+        "image-viewer"
         "expandable-chapters-interactive",
-        "theme-finger"
+        "theme-juicebox"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": "https://nimmerland.de/files/blue_business/logo-entwurf-03-blau.png"}
