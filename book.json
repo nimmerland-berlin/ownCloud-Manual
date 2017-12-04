@@ -3,7 +3,10 @@
     "plugins": [
         "image-captions",
         "styleguide",
-        "share"
+        "share",
+        "insert-logo"
           ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+    "insert-logo": {"url": "/assets/logo.jpg"}
+    }
 }
