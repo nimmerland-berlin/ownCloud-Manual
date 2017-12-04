@@ -2,8 +2,7 @@
     "plugins": [
         "image-captions",
         "styleguide",
-        "share" ,
-        "theme-gestalt", "-theme-default", "styles-sass-fix" 
+        "share"
     ],
     "pluginsConfig": {}
 }
