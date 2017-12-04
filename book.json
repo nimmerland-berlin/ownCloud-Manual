@@ -6,7 +6,7 @@
         "share",
         "insert-logo",
         "expandable-chapters-interactive",
-        "theme-mbook"
+        "theme-appcom"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": ""}
