@@ -6,7 +6,7 @@
         "share",
         "insert-logo",
         "toggle-chapters",
-        "devdog-theme"
+        "theme-vuejs-2"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": ""}
