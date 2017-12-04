@@ -1,6 +1,4 @@
-"styles": {
-    "website": "/styles/website.scss"
-}
+
 {
     "plugins": [
         "image-captions",
@@ -10,5 +8,7 @@
     ],
     "pluginsConfig": {
     "theme-gestalt": {"logo": "/assets/logo.png", "favicon": "/assets/favicon.png", "excludeDefaultStyles": true}
+    "styles": {"website": "/styles/website.scss"}
+
     }
 }
