@@ -16,13 +16,7 @@
     "description": "modified at",
     "signature": "nimmerland berlin",
     "wisdom": "take control over your data ...",
-    "format": "dd-MM-jjjj hh:mm:ss",
     "copyright": "Copyright &#169; nimmerland berlin",
-    "timeColor": "#666",
-    "copyrightColor": "#666",
-    "utcOffset": "8",
-    "isShowQRCode": true,
-    "style": "normal"
-        }
+          }
     }
   }
