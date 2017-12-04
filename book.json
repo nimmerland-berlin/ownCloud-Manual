@@ -11,4 +11,7 @@
         "favicon": "/assets/favicon.png"        // path to your favicon
         }
     }
+    "styles": {
+    "website": "./styles/website.scss"
+}
 }
