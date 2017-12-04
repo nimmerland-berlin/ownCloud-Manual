@@ -4,7 +4,8 @@
         "image-captions",
         "styleguide",
         "share",
-        "insert-logo"
+        "insert-logo",
+        "tbobook"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": ""}
