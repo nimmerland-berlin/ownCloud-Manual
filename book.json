@@ -8,7 +8,4 @@
     "pluginsConfig": {
     "theme-gestalt": {"excludeDefaultStyles": true}
     }
-    "styles": {
-"website": "/styles/website.scss"
 }
-   }
