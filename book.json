@@ -6,6 +6,6 @@
         "theme-gestalt", "-theme-default", "styles-sass-fix"
     ],
     "pluginsConfig": {
-    "theme-gestalt": {}
+    "theme-gestalt": {"excludeDefaultStyles": true}
     }
    }
