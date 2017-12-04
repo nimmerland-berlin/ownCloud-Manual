@@ -11,8 +11,7 @@
                  ],
     "pluginsConfig": {
     "insert-logo": {"url": "https://nimmerland.de/files/blue_business/logo-entwurf-03-blau.png"}
-      "pluginsConfig": {
-        "page-footer": {
+           "page-footer": {
             "description": "modified at",
             "signature": "Aleen",
             "wisdom": "More than a coder, more than a designer",
