@@ -7,9 +7,29 @@
         "insert-logo",
         "image-viewer",
         "expandable-chapters-interactive",
+        "page-footer",
         "theme-material"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": "https://nimmerland.de/files/blue_business/logo-entwurf-03-blau.png"}
+     "pluginsConfig": {
+        "page-footer": {
+            "description": "modified at",
+            "signature": "nimmerland berlin",
+            "wisdom": "take control over your data ...",
+            "format": "dd-MM-jjjj hh:mm:ss",
+            "copyright": "Copyright &#169; nimmerland berlin",
+            "timeColor": "#666",
+            "copyrightColor": "#666",
+            "utcOffset": "8",
+            "isShowQRCode": true,
+            "baseUri": "https://aleen42.gitbooks.io/personalwiki/content/",
+                        "isShowIssues": true,
+            "repo": "repo",
+            "issueNum": "8",
+            "token": "",
+                        "style": "normal"
+        }
+    }
     }
 }
