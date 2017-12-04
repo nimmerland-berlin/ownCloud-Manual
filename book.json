@@ -5,8 +5,8 @@
         "styleguide",
         "share",
         "insert-logo",
-        "toggle-chapters",
-        "theme-vuejs-2"
+        "expandable-chapters-interactive",
+        "theme-busbud"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": ""}
