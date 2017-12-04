@@ -7,7 +7,7 @@
         "insert-logo",
         "image-viewer",
         "expandable-chapters-interactive",
-        "page-footer"
+        "dev-dog"
                  ],
     "pluginsConfig": {
     "insert-logo": {"url": "https://nimmerland.de/files/blue_business/logo-entwurf-03-blau.png"}
