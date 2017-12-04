@@ -8,7 +8,7 @@
     "pluginsConfig": {
     "theme-gestalt": {
         "logo": "/assets/logo.jpg",            // path to the logo file to use in the sidebar
-        "favicon": "/assets/favicon.png",        // path to your favicon
+        "favicon": "/assets/favicon.png"        // path to your favicon
         }
     }
 }
