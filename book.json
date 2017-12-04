@@ -13,3 +13,4 @@
     "excludeDefaultStyles": true, // excludes the pre-compiled theme css in favor of your custom css 
     "doNotHideChildrenChapters" : false // in summary, disables hiding of child chapters for inactive chapter }
 }
+}
