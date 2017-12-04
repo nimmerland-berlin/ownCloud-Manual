@@ -5,7 +5,7 @@
         "styleguide",
         "share",
         "insert-logo",
-        "theme-darkyellow"
+        "devdog-theme"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": ""}
