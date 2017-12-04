@@ -7,7 +7,7 @@
         "insert-logo",
         "download-pdf-link",
         "expandable-chapters-interactive",
-        "theme-opendocs"
+        "theme-gestalt"
           ],
     "pluginsConfig": {
     "insert-logo": {"url": "https://nimmerland.de/files/blue_business/logo-entwurf-03-blau.png"}
