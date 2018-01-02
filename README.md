@@ -1,10 +1,10 @@
-[](https://nimmerland.de/nimmerland-cloud-basic.html)![](https://lehre.nimmerland.de/index.php/s/U1L66bGV74qWg3L/download)
+[](https://nimmerland.berlin)![](https://lehre.nimmerland.de/index.php/s/U1L66bGV74qWg3L/download)
 
 # Nimmerland Nextcloud
 ## Handbuch und Anleitung zur Ersteinrichtung
 
 <div class="alert alert-warning">
-Wir aktualisieren das Handbuch gerade. 
+Dieses Handbuch ist für Nimmerland ownCloud Installtionen geschrieben. Nimmerland richtet jetzt nur noch Nextcloud-Installtionen ein. Die meisten Informationen in diesem Manual sind auch für Nextcloud gültig. 
 </div>
 
 In diesem Handbuch erfährst du alles Wichtige zur Nutzung deiner Nimmerland Nextcloud. Du findest Hinweise, Tipps und Anleitungen für Nimmerland Cloud Team, Nimmerland Cloud Friends und Nimmerland Cloud Basic.
