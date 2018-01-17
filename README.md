@@ -1,4 +1,4 @@
-[](https://nimmerland.berlin)![](https://lehre.nimmerland.de/index.php/s/U1L66bGV74qWg3L/download)
+[](https://nimmerland.berlin)![](assets/logo-nimmerland-provider-2018-300ppi.png)
 
 # Nimmerland Nextcloud
 ## Handbuch und Anleitung zur Ersteinrichtung
